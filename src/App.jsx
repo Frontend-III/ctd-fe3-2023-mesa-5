@@ -7,7 +7,7 @@ const productos = [
   },
   {
       "id": 1,
-      "nombre": "Amazon Echo Dot (4a Gen.)",
+      "nombre": "Amazon Echo Dot (4a Gen.)", 
       "imagen": "https://m.media-amazon.com/images/I/714Rq4k05UL._AC_SL1000_.jpg",
       "precio": "$ 14.99"
   },
